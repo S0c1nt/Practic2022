@@ -1,0 +1,8 @@
+C:\Users\casha\source\repos\6_4\6_4\bin\Debug\6_4.exe.config
+C:\Users\casha\source\repos\6_4\6_4\bin\Debug\6_4.exe
+C:\Users\casha\source\repos\6_4\6_4\bin\Debug\6_4.pdb
+C:\Users\casha\source\repos\6_4\6_4\obj\Debug\6_4.csproj.AssemblyReference.cache
+C:\Users\casha\source\repos\6_4\6_4\obj\Debug\6_4.csproj.SuggestedBindingRedirects.cache
+C:\Users\casha\source\repos\6_4\6_4\obj\Debug\6_4.csproj.CoreCompileInputs.cache
+C:\Users\casha\source\repos\6_4\6_4\obj\Debug\6_4.exe
+C:\Users\casha\source\repos\6_4\6_4\obj\Debug\6_4.pdb

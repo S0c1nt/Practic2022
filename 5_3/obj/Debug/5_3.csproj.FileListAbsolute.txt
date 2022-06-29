@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\5_3\bin\Debug\5_3.exe.config
+C:\Users\user\source\repos\5_3\bin\Debug\5_3.exe
+C:\Users\user\source\repos\5_3\bin\Debug\5_3.pdb
+C:\Users\user\source\repos\5_3\obj\Debug\5_3.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\5_3\obj\Debug\5_3.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\5_3\obj\Debug\5_3.exe
+C:\Users\user\source\repos\5_3\obj\Debug\5_3.pdb
+C:\Users\user\Desktop\Практика_Морозов\5_3\bin\Debug\5_3.exe.config
+C:\Users\user\Desktop\Практика_Морозов\5_3\bin\Debug\5_3.exe
+C:\Users\user\Desktop\Практика_Морозов\5_3\bin\Debug\5_3.pdb
+C:\Users\user\Desktop\Практика_Морозов\5_3\obj\Debug\5_3.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Практика_Морозов\5_3\obj\Debug\5_3.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Практика_Морозов\5_3\obj\Debug\5_3.exe
+C:\Users\user\Desktop\Практика_Морозов\5_3\obj\Debug\5_3.pdb
